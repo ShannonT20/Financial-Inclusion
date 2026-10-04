@@ -2,7 +2,7 @@ catboost>=1.2
 feature-engine>=1.6.1
 ipykernel
 lightgbm>=4.6.0
-matplotlib>=3.7.2
+matplotlib>=3.11.2
 numpy>=1.24.3
 pandas>=1.5.1
 scikit-learn>=1.5.0
