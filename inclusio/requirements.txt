@@ -1,4 +1,4 @@
-catboost>=1.2
+catboost>=1.2.10
 feature-engine>=1.6.1
 ipykernel
 lightgbm>=4.6.0
