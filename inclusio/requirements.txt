@@ -1,5 +1,5 @@
 catboost>=1.2
-feature-engine>=1.6.1
+feature-engine>=1.9.4
 ipykernel
 lightgbm>=4.6.0
 matplotlib>=3.7.2
